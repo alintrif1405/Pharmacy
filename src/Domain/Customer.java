@@ -11,5 +11,6 @@ public class Customer {//abstract dar nu merge in cust repo
         LastName = lastName;
         this.type = type;
         this.ID = ID;
+        /*changes madeee,sad;*/
     }
 }
